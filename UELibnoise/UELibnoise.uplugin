@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UELibnoise",
+	"Description": "Unreal implementation of libnoise.",
+	"Category": "Other",
+	"CreatedBy": "Lukas Clausson",
+	"CreatedByURL": "https://www.lukasclausson.com/",
+	"DocsURL": "https://github.com/meNotLucky/UELibnoise/tree/main",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/meNotLucky/UELibnoise/tree/main",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "UELibnoise",
+			"Type": "Runtime",
+			"LoadingPhase": "EarliestPossible"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ProceduralMeshComponent",
+			"Enabled": true
+		}
+	]
+}

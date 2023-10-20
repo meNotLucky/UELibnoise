@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-UELibnoise.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Lukas Clausson\Documents\Unreal Projects\emerald-sands\EmeraldSands\Intermediate\Build\Win64\x64\EmeraldSandsEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"C:\Users\Lukas Clausson\Documents\Unreal Projects\emerald-sands\EmeraldSands\Plugins\UELibnoise\Intermediate\Build\Win64\x64\UnrealEditor\Development\UELibnoise\Module.UELibnoise.cpp.obj"
+"C:\Users\Lukas Clausson\Documents\Unreal Projects\emerald-sands\EmeraldSands\Plugins\UELibnoise\Intermediate\Build\Win64\x64\UnrealEditor\Development\UELibnoise\UELibnoiseModule.cpp.obj"
+"C:\Users\Lukas Clausson\Documents\Unreal Projects\emerald-sands\EmeraldSands\Plugins\UELibnoise\Intermediate\Build\Win64\x64\UnrealEditor\Development\UELibnoise\Default.rc2.res"
+/OUT:"C:\Users\Lukas Clausson\Documents\Unreal Projects\emerald-sands\EmeraldSands\Plugins\UELibnoise\Intermediate\Build\Win64\x64\UnrealEditor\Development\UELibnoise\UnrealEditor-UELibnoise.lib"

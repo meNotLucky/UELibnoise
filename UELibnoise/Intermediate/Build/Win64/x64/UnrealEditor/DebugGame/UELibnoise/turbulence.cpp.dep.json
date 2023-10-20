@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\lukas clausson\\documents\\unreal projects\\emerald-sands\\emeraldsands\\plugins\\uelibnoise\\source\\uelibnoise\\private\\libnoise\\module\\turbulence.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\lukas clausson\\documents\\unreal projects\\emerald-sands\\emeraldsands\\intermediate\\build\\win64\\x64\\emeraldsandseditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\lukas clausson\\documents\\unreal projects\\emerald-sands\\emeraldsands\\plugins\\uelibnoise\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\uelibnoise\\definitions.uelibnoise.h",
+            "c:\\users\\lukas clausson\\documents\\unreal projects\\emerald-sands\\emeraldsands\\plugins\\uelibnoise\\source\\uelibnoise\\public\\libnoise\\module\\turbulence.h",
+            "c:\\users\\lukas clausson\\documents\\unreal projects\\emerald-sands\\emeraldsands\\plugins\\uelibnoise\\source\\uelibnoise\\public\\libnoise\\module\\perlin.h",
+            "c:\\users\\lukas clausson\\documents\\unreal projects\\emerald-sands\\emeraldsands\\plugins\\uelibnoise\\source\\uelibnoise\\public\\libnoise\\module\\modulebase.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\assert.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\math.h",
+            "c:\\users\\lukas clausson\\documents\\unreal projects\\emerald-sands\\emeraldsands\\plugins\\uelibnoise\\source\\uelibnoise\\public\\libnoise\\basictypes.h",
+            "c:\\users\\lukas clausson\\documents\\unreal projects\\emerald-sands\\emeraldsands\\plugins\\uelibnoise\\source\\uelibnoise\\public\\libnoise\\exception.h",
+            "c:\\users\\lukas clausson\\documents\\unreal projects\\emerald-sands\\emeraldsands\\plugins\\uelibnoise\\source\\uelibnoise\\public\\libnoise\\noisegen.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22621.0\\ucrt\\math.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
